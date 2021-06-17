@@ -2,6 +2,12 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-As Kanye West said:
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
 Use the left arrow to go back!
 
