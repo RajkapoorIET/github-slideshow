@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-### This is a third-tier heading
+As Kanye West said:
 Use the left arrow to go back!
 
