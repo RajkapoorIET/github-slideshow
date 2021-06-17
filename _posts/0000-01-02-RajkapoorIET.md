@@ -1,13 +1,5 @@
 ---
 layout: slide
 title: "Welcome to our second slide!"
----
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
 Use the left arrow to go back!
 
